@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1441112035 source:/home/covert/code/iw-test-codeblocks/main.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<assert.h>
+
